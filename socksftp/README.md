@@ -15,7 +15,7 @@ Requirements
 Install
 =======
 
-    copy to your working project
+    copy socksftp to your working project
 
 
 Examples
